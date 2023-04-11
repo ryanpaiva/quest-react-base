@@ -1,0 +1,17 @@
+.btn {
+    background-color: aquamarine;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 150px;
+    height: 35px;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 1px solid #000;
+    margin: 20px 0 30px;
+}
+
+.btn:hover {
+    background-color: rgb(255, 134, 194);
+    color: #fff;
+    border: 1px solid #fff;
+}
